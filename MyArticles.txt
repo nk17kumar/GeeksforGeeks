@@ -1,0 +1,28 @@
+#List of articles written during my internship at geeksforgeeks
+
+1) Palindromic Tree
+   http://www.geeksforgeeks.org/palindromic-tree-introduction-implementation/
+   
+2) BK Tree
+   http://www.geeksforgeeks.org/bk-tree-introduction-implementation/
+   
+3) Persistent Segment Tree
+   http://www.geeksforgeeks.org/persistent-segment-tree-set-1-introduction/
+   
+4) Sqrt Decomposition
+   http://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/
+
+5) Hierholzer’s Algorithm for directed graph
+   http://www.geeksforgeeks.org/hierholzers-algorithm-directed-graph/
+
+6) LCA for n-ary Tree | Constant Query O(1)
+   http://www.geeksforgeeks.org/lca-n-ary-tree-constant-query-o1/
+   
+7) LCA for n-ary Tree | Sparse-matrix Dp O(logn)
+   http://www.geeksforgeeks.org/lca-for-general-or-n-ary-trees-sparse-matrix-dp-approach-onlogn-ologn/
+
+8) LCA using SQRT Decomposition | O(sqrt h)
+   http://www.geeksforgeeks.org/sqrt-square-root-decomposition-set-2-lca-tree-osqrth-time/
+
+9) Prime Factorization in O(logn)
+   http://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
