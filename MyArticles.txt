@@ -26,3 +26,12 @@
 
 9) Prime Factorization in O(logn)
    http://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
+   
+10) Digit DP
+   https://www.geeksforgeeks.org/digit-dp-introduction/
+
+11) How to solve a Dynamic Programming Problem ?
+   https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
+   
+12) Travelling Salesman Problem (Bitmask DP)
+   https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/
