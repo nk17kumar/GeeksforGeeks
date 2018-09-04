@@ -18,13 +18,13 @@
 6)  LCA for n-ary Tree | Constant Query O(1)
     http://www.geeksforgeeks.org/lca-n-ary-tree-constant-query-o1/
 
-7)  LCA for n-ary Tree | Sparse-matrix Dp O(logn)
+7)  LCA for n-ary Tree | Sparse-matrix Dp O(log n)
     http://www.geeksforgeeks.org/lca-for-general-or-n-ary-trees-sparse-matrix-dp-approach-onlogn-ologn/
 
 8)  LCA using SQRT Decomposition | O(sqrt h)
     http://www.geeksforgeeks.org/sqrt-square-root-decomposition-set-2-lca-tree-osqrth-time/
 
-9)  Prime Factorization in O(logn)
+9)  Prime Factorization in O(log n)
     http://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
 
 10) Digit DP
